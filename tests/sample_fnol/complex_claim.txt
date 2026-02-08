@@ -1,0 +1,128 @@
+ACORD 2 - AUTOMOBILE LOSS NOTICE
+FIRST NOTICE OF LOSS (FNOL)
+
+DATE: 02/08/2026
+CARRIER: SafeGuard Insurance Company
+NAIC CODE: 12345
+
+POLICY INFORMATION
+POLICY NUMBER: POL-2026-CPX-005
+POLICYHOLDER NAME: Anderson Family Trust
+EFFECTIVE DATES: 03/15/2025 to 03/15/2026
+LINE OF BUSINESS: Auto Insurance - Commercial
+AGENCY CUSTOMER ID: AG-7890
+
+INSURED INFORMATION
+NAME OF INSURED: Anderson Family Trust
+FEIN: 12-3456789
+PRIMARY PHONE: (555) 567-8901
+E-MAIL ADDRESS: trust@andersonfamily.com
+MAILING ADDRESS: 1234 Executive Plaza, Suite 500, Dallas, TX 75201
+
+LOSS INFORMATION
+DATE OF LOSS: 02/06/2026
+TIME: 03:45 PM
+LOCATION OF LOSS: 
+STREET: Interstate 35 Southbound, Mile Marker 127
+CITY, STATE, ZIP: Dallas, TX 75201
+
+POLICE DEPARTMENT CONTACTED: Yes
+REPORT NUMBER: DPD-2026-0206-3456
+FIRE DEPARTMENT CONTACTED: Yes (vehicle fire)
+
+DESCRIPTION OF ACCIDENT:
+Multi-vehicle collision on interstate during heavy traffic. Insured luxury vehicle was struck by commercial truck that lost control, causing chain reaction involving four vehicles total. Significant property damage to all vehicles involved. Insured vehicle caught fire after impact, total loss expected. Third-party property damage includes damage to highway guardrail and signage. Commercial truck driver cited for negligent driving. Complex liability situation with multiple parties and insurance carriers involved.
+
+INSURED VEHICLE
+YEAR: 2024
+MAKE: Mercedes-Benz
+MODEL: S-Class S500
+BODY TYPE: Luxury Sedan
+V.I.N.: WDDUX8GB1PA123456
+PLATE NUMBER: LUX999
+STATE: TX
+
+OWNER'S NAME: Anderson Family Trust
+DRIVER'S NAME: James Anderson
+RELATION TO INSURED: Trustee
+DRIVER'S LICENSE: TX-12345678
+PHONE: (555) 678-9012
+ADDRESS: 5678 Highland Park, Dallas, TX 75205
+
+DAMAGE DESCRIPTION:
+Total loss - vehicle fire after collision. Complete destruction of vehicle. Front and rear end damage from multiple impacts, fire damage throughout, frame compromised, all systems destroyed.
+
+ESTIMATE AMOUNT: $125,000.00 (total loss - vehicle value)
+
+WHERE CAN VEHICLE BE SEEN: Impound Lot - Dallas Police Evidence Facility
+WHEN CAN VEHICLE BE SEEN: By appointment only with police clearance
+
+OTHER VEHICLES/PROPERTY DAMAGED
+
+VEHICLE 1:
+YEAR: 2019
+MAKE: Freightliner
+MODEL: Cascadia (Commercial Truck)
+OWNER: Swift Transportation LLC
+DRIVER: Carlos Martinez
+PHONE: (555) 111-3333
+INSURANCE: Commercial Carriers Insurance, Policy #CCL-789456
+
+VEHICLE 2:
+YEAR: 2022
+MAKE: Honda
+MODEL: Accord
+OWNER: Patricia Lee
+PHONE: (555) 222-4444
+INSURANCE: State Farm, Policy #SF-456789
+
+VEHICLE 3:
+YEAR: 2020
+MAKE: Nissan
+MODEL: Altima
+OWNER: Kevin Brown
+PHONE: (555) 333-5555
+INSURANCE: Geico, Policy #GEI-987654
+
+PROPERTY DAMAGE:
+- Highway guardrail (approximately 50 feet)
+- Highway signage (2 signs)
+- Road surface damage
+Estimated property damage: $25,000
+
+INJURED PARTIES
+1. James Anderson (Driver) - Minor injuries, treated at scene
+2. Patricia Lee - Transported to hospital, non-life threatening injuries
+3. Kevin Brown - Minor injuries, refused transport
+
+WITNESSES
+Multiple witnesses, police report contains statements
+
+CLAIM TYPE: Auto - Commercial, Multi-party
+INITIAL ESTIMATE: $125,000.00 (vehicle only)
+TOTAL ESTIMATED EXPOSURE: $150,000+ (including property damage and potential liability)
+
+OTHER INSURANCE: 
+- Umbrella Policy: POL-UMB-2026-001, $2,000,000 coverage
+- Commercial Auto Policy: POL-COM-2026-002
+
+SUBROGATION POTENTIAL: Yes - against commercial truck driver and Swift Transportation
+
+SPECIAL HANDLING REQUIRED:
+- Total loss vehicle
+- Multiple third parties involved
+- Commercial truck involved
+- Highway property damage
+- Potential subrogation
+- Complex liability determination needed
+
+REPORTED BY: James Anderson
+REPORTED TO: SafeGuard Insurance Claims Department - Commercial Division
+DATE REPORTED: 02/06/2026
+
+ADJUSTER NOTES: High-value claim requiring senior adjuster review. Multiple carriers involved. Coordinate with commercial division and legal department.
+
+This is a complete and accurate report of the loss to the best of my knowledge.
+
+Signature: James Anderson, Trustee
+Date: 02/06/2026

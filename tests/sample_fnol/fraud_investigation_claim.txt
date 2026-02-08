@@ -1,0 +1,76 @@
+ACORD 2 - AUTOMOBILE LOSS NOTICE
+FIRST NOTICE OF LOSS (FNOL)
+
+DATE: 02/07/2026
+CARRIER: SafeGuard Insurance Company
+NAIC CODE: 12345
+
+POLICY INFORMATION
+POLICY NUMBER: POL-2026-INV-003
+POLICYHOLDER NAME: David Thompson
+EFFECTIVE DATES: 12/01/2025 to 12/01/2026
+LINE OF BUSINESS: Auto Insurance
+AGENCY CUSTOMER ID: AG-9012
+
+INSURED INFORMATION
+NAME OF INSURED: David Thompson
+DATE OF BIRTH: 03/22/1978
+PRIMARY PHONE: (555) 345-6789
+E-MAIL ADDRESS: d.thompson@email.com
+MAILING ADDRESS: 987 Maple Drive, Chicago, IL 60601
+
+LOSS INFORMATION
+DATE OF LOSS: 02/05/2026
+TIME: 11:45 PM
+LOCATION OF LOSS: 
+STREET: Empty parking lot behind 123 Industrial Blvd
+CITY, STATE, ZIP: Chicago, IL 60601
+
+POLICE DEPARTMENT CONTACTED: Yes
+REPORT NUMBER: CPD-2026-0205-5678
+
+DESCRIPTION OF ACCIDENT:
+Claimant reports vehicle was struck while parked in empty lot late at night. However, damage pattern appears inconsistent with reported scenario. Witness statements contradict claimant's account. Security footage shows suspicious activity. The incident description contains several inconsistent details that don't align with physical evidence. Damage appears staged and does not match the claimed collision angle. Multiple red flags suggest this may be a fraudulent claim attempt.
+
+INSURED VEHICLE
+YEAR: 2019
+MAKE: BMW
+MODEL: 328i
+BODY TYPE: Sedan
+V.I.N.: WBA8E1C50GK123456
+PLATE NUMBER: FRD789
+STATE: IL
+
+OWNER'S NAME: David Thompson (Same as insured)
+DRIVER'S NAME: David Thompson (Same as owner)
+
+DAMAGE DESCRIPTION:
+Side panel damage, door dented, mirror broken. Damage pattern inconsistent with hit-and-run scenario as described.
+
+ESTIMATE AMOUNT: $18,500.00
+
+WHERE CAN VEHICLE BE SEEN: 987 Maple Drive, Chicago, IL 60601
+WHEN CAN VEHICLE BE SEEN: Anytime
+
+OTHER VEHICLE DAMAGED
+Unknown vehicle - alleged hit and run
+
+WITNESSES
+NAME: Security Guard - James Wilson
+PHONE: (555) 111-2222
+ADDRESS: Industrial Complex Security Office
+STATEMENT: "Saw the vehicle already damaged when arriving for night shift. Timeline doesn't match claimant's story."
+
+CLAIM TYPE: Auto
+INITIAL ESTIMATE: $18,500.00
+
+REPORTED BY: David Thompson
+REPORTED TO: SafeGuard Insurance Claims Department
+DATE REPORTED: 02/06/2026
+
+INVESTIGATOR NOTES: Multiple fraud indicators present. Recommend immediate investigation.
+
+This is a complete and accurate report of the loss to the best of my knowledge.
+
+Signature: David Thompson
+Date: 02/06/2026

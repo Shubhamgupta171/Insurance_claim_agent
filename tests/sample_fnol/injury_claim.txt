@@ -1,0 +1,101 @@
+ACORD 2 - AUTOMOBILE LOSS NOTICE
+FIRST NOTICE OF LOSS (FNOL)
+
+DATE: 02/08/2026
+CARRIER: SafeGuard Insurance Company
+NAIC CODE: 12345
+
+POLICY INFORMATION
+POLICY NUMBER: POL-2026-INJ-004
+POLICYHOLDER NAME: Emily Rodriguez
+EFFECTIVE DATES: 06/01/2025 to 06/01/2026
+LINE OF BUSINESS: Auto Insurance
+AGENCY CUSTOMER ID: AG-3456
+
+INSURED INFORMATION
+NAME OF INSURED: Emily Rodriguez
+DATE OF BIRTH: 08/10/1990
+PRIMARY PHONE: (555) 456-7890
+E-MAIL ADDRESS: emily.rodriguez@email.com
+MAILING ADDRESS: 654 Cedar Lane, Austin, TX 78701
+
+LOSS INFORMATION
+DATE OF LOSS: 02/07/2026
+TIME: 08:15 AM
+LOCATION OF LOSS: 
+STREET: Intersection of Congress Avenue and 6th Street
+CITY, STATE, ZIP: Austin, TX 78701
+
+POLICE DEPARTMENT CONTACTED: Yes
+REPORT NUMBER: APD-2026-0207-9012
+
+DESCRIPTION OF ACCIDENT:
+Two-vehicle collision at busy intersection during morning rush hour. Insured vehicle was proceeding through intersection when struck on driver's side by vehicle running red light. High-speed impact caused significant damage and resulted in personal injury to driver and passenger. Emergency services responded immediately. Driver sustained whiplash and possible concussion. Passenger suffered broken arm and lacerations. Both transported to St. David's Medical Center by ambulance for emergency treatment.
+
+INSURED VEHICLE
+YEAR: 2023
+MAKE: Tesla
+MODEL: Model 3
+BODY TYPE: Sedan
+V.I.N.: 5YJ3E1EA1KF123456
+PLATE NUMBER: INJ456
+STATE: TX
+
+OWNER'S NAME: Emily Rodriguez (Same as insured)
+DRIVER'S NAME: Emily Rodriguez (Same as owner)
+
+DAMAGE DESCRIPTION:
+Severe driver's side damage, door crushed, window shattered, airbags deployed, frame possibly bent. Vehicle not drivable and towed from scene.
+
+ESTIMATE AMOUNT: $35,000.00
+
+WHERE CAN VEHICLE BE SEEN: Austin Auto Body & Collision Center, 1234 Service Road, Austin, TX
+WHEN CAN VEHICLE BE SEEN: Business hours, Monday-Friday 8AM-5PM
+
+OTHER VEHICLE DAMAGED
+YEAR: 2018
+MAKE: Chevrolet
+MODEL: Silverado
+OWNER'S NAME: Marcus Johnson
+DRIVER'S NAME: Marcus Johnson
+PHONE: (555) 789-0123
+ADDRESS: 432 Oak Ridge, Austin, TX 78702
+
+INJURED PARTIES
+1. DRIVER: Emily Rodriguez
+   EXTENT OF INJURY: Whiplash, possible concussion, neck pain, headache
+   MEDICAL FACILITY: St. David's Medical Center
+   AMBULANCE TRANSPORT: Yes
+
+2. PASSENGER: Lisa Chen
+   EXTENT OF INJURY: Broken left arm, facial lacerations, bruising
+   MEDICAL FACILITY: St. David's Medical Center
+   AMBULANCE TRANSPORT: Yes
+
+WITNESSES
+NAME: Officer Sarah Martinez - APD
+PHONE: (555) 911-0000
+STATEMENT: "Witness confirms other vehicle ran red light. Clear liability."
+
+NAME: Pedestrian - John Davis
+PHONE: (555) 234-9876
+ADDRESS: 789 Downtown Street, Austin, TX
+STATEMENT: "Saw the whole thing. Truck definitely ran the red light."
+
+CLAIM TYPE: Injury
+INITIAL ESTIMATE: $35,000.00 (vehicle damage only, medical costs TBD)
+
+MEDICAL TREATMENT ONGOING: Yes
+HOSPITAL RECORDS: Being obtained
+MEDICAL BILLS: Expected to exceed $50,000
+
+REPORTED BY: Emily Rodriguez (from hospital)
+REPORTED TO: SafeGuard Insurance Claims Department
+DATE REPORTED: 02/07/2026
+
+SPECIAL NOTES: Personal injury claim requiring specialist assessment. Medical treatment ongoing. Third-party liability clear based on police report and witness statements.
+
+This is a complete and accurate report of the loss to the best of my knowledge.
+
+Signature: Emily Rodriguez
+Date: 02/07/2026

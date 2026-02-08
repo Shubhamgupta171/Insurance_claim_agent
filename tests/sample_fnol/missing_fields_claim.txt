@@ -1,0 +1,69 @@
+ACORD 2 - AUTOMOBILE LOSS NOTICE
+FIRST NOTICE OF LOSS (FNOL)
+
+DATE: 02/06/2026
+CARRIER: SafeGuard Insurance Company
+NAIC CODE: 12345
+
+POLICY INFORMATION
+POLICY NUMBER: [NOT PROVIDED]
+POLICYHOLDER NAME: Robert Williams
+EFFECTIVE DATES: 
+LINE OF BUSINESS: Auto Insurance
+
+INSURED INFORMATION
+NAME OF INSURED: Robert Williams
+DATE OF BIRTH: 
+PRIMARY PHONE: 
+E-MAIL ADDRESS: 
+MAILING ADDRESS: 
+
+LOSS INFORMATION
+DATE OF LOSS: 02/03/2026
+TIME: 
+LOCATION OF LOSS: 
+STREET: Highway 95 near mile marker 42
+CITY, STATE, ZIP: 
+
+POLICE DEPARTMENT CONTACTED: 
+REPORT NUMBER: 
+
+DESCRIPTION OF ACCIDENT:
+Single vehicle accident. Vehicle left roadway and struck guardrail.
+
+INSURED VEHICLE
+YEAR: 2021
+MAKE: Ford
+MODEL: F-150
+BODY TYPE: Truck
+V.I.N.: 1FTFW1E84MFA12345
+PLATE NUMBER: 
+STATE: 
+
+OWNER'S NAME: 
+DRIVER'S NAME: Robert Williams
+
+DAMAGE DESCRIPTION:
+Front end damage, hood crumpled, airbags deployed.
+
+ESTIMATE AMOUNT: 
+
+WHERE CAN VEHICLE BE SEEN: Joe's Towing Yard
+WHEN CAN VEHICLE BE SEEN: 
+
+WITNESSES
+NAME: 
+PHONE: 
+ADDRESS: 
+
+CLAIM TYPE: 
+INITIAL ESTIMATE: 
+
+REPORTED BY: Robert Williams
+REPORTED TO: SafeGuard Insurance Claims Department
+DATE REPORTED: 02/06/2026
+
+This is a complete and accurate report of the loss to the best of my knowledge.
+
+Signature: Robert Williams
+Date: 02/06/2026

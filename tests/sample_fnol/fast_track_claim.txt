@@ -1,0 +1,79 @@
+ACORD 2 - AUTOMOBILE LOSS NOTICE
+FIRST NOTICE OF LOSS (FNOL)
+
+DATE: 02/05/2026
+CARRIER: SafeGuard Insurance Company
+NAIC CODE: 12345
+
+POLICY INFORMATION
+POLICY NUMBER: POL-2026-FT-001
+POLICYHOLDER NAME: Sarah Johnson
+EFFECTIVE DATES: 01/01/2026 to 01/01/2027
+LINE OF BUSINESS: Auto Insurance
+AGENCY CUSTOMER ID: AG-5678
+
+INSURED INFORMATION
+NAME OF INSURED: Sarah Johnson
+DATE OF BIRTH: 05/15/1985
+PRIMARY PHONE: (555) 123-4567
+E-MAIL ADDRESS: sarah.johnson@email.com
+MAILING ADDRESS: 456 Oak Street, Springfield, IL 62701
+
+LOSS INFORMATION
+DATE OF LOSS: 02/01/2026
+TIME: 02:30 PM
+LOCATION OF LOSS: 
+STREET: Intersection of Main St and 5th Avenue
+CITY, STATE, ZIP: Springfield, IL 62701
+
+POLICE DEPARTMENT CONTACTED: Yes
+REPORT NUMBER: SPD-2026-0201-1234
+
+DESCRIPTION OF ACCIDENT:
+Minor rear-end collision at traffic light. Vehicle was stopped at red light when struck from behind by another vehicle. Low-speed impact, minimal damage to rear bumper and tail light assembly.
+
+INSURED VEHICLE
+YEAR: 2022
+MAKE: Honda
+MODEL: Civic
+BODY TYPE: Sedan
+V.I.N.: 1HGBH41JXMN109186
+PLATE NUMBER: ABC1234
+STATE: IL
+
+OWNER'S NAME: Sarah Johnson (Same as insured)
+DRIVER'S NAME: Sarah Johnson (Same as owner)
+
+DAMAGE DESCRIPTION:
+Rear bumper dented, right tail light cracked, minor paint scratches. Vehicle is drivable.
+
+ESTIMATE AMOUNT: $12,500.00
+
+WHERE CAN VEHICLE BE SEEN: 456 Oak Street, Springfield, IL 62701
+WHEN CAN VEHICLE BE SEEN: Weekdays after 5 PM, weekends anytime
+
+OTHER VEHICLE DAMAGED
+YEAR: 2020
+MAKE: Toyota
+MODEL: Camry
+OWNER'S NAME: Michael Chen
+DRIVER'S NAME: Michael Chen
+PHONE: (555) 987-6543
+ADDRESS: 789 Elm Street, Springfield, IL 62702
+
+WITNESSES
+NAME: Jennifer Martinez
+PHONE: (555) 234-5678
+ADDRESS: 321 Pine Street, Springfield, IL 62701
+
+CLAIM TYPE: Auto
+INITIAL ESTIMATE: $12,500.00
+
+REPORTED BY: Sarah Johnson
+REPORTED TO: SafeGuard Insurance Claims Department
+DATE REPORTED: 02/01/2026
+
+This is a complete and accurate report of the loss to the best of my knowledge.
+
+Signature: Sarah Johnson
+Date: 02/01/2026
